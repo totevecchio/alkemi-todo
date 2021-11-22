@@ -1,0 +1,26 @@
+@media screen and (max-width: 480px) {
+    .container {
+        width: 100%;
+
+    }
+    .button_container {
+        margin-left: 1.5rem;
+
+    }
+    .incertar {
+        width: 50%;
+    }
+    .total {
+        width: 40%;
+    }
+
+    .button { 
+        width: 80px; 
+    }
+  }
+
+  @media screen and (max-width: 720px) {
+    .loginContainer {
+        width: 80%;
+    }
+  }
